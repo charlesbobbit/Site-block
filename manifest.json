@@ -7,7 +7,10 @@
             "matches": ["<all_urls>"],
             "js": ["content.js"]
         }
-    ]
+    ],
+    "icons": { "16": "fav(16).png",
+        "48": "fav(48).png",
+       "128": "fav(128).png" }
 
 
 }
