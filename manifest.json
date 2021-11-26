@@ -10,7 +10,9 @@
     ],
     "icons": { "16": "fav (16).png",
         "48": "fav (48).png",
-       "128": "fav (128).png" }
+       "128": "fav (128).png" },
+
+    "description": "A simple chrome extension to block distracting websites and increase productivity."
 
 
 }
